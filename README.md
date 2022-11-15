@@ -1,2 +1,0 @@
-# Codemate
-Codemate pair programming
